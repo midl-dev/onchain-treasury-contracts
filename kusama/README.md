@@ -39,7 +39,7 @@ The costs can be roughly split as follows (based on cost breakdown screenshot):
 * 17% network egress (snapshot downloads)
 * 14% network egress (p2p)
 
-![cloud costs](./kusama/cloudcosts.png)
+![cloud costs](./cloudcosts.png)
 
 
 ## Funding request from Kusama treasury
