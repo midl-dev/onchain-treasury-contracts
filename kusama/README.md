@@ -25,7 +25,7 @@ Our current ball-park figure for expenses for the Kusama Network components of p
 
 ### Cloud cost explanation
 
-We have attached a snapshot of costs for Dec 20-30th, 2020 which show expenses of 15 EUR/day for one of our clusters which currently runs the Polkadot snapshot website (live on Polkashots.io).
+Below is a snapshot of costs for Dec 20-30th, 2020 which show expenses of 15 EUR/day for one of our clusters which currently runs the Polkadot snapshot website (live on Polkashots.io).
 
 This cluster shows costs of 15 EUR/day, however it is running unrelated workloads as well. We estimate the polkashots website in its current form to utilize about half of the resources, hence the 7.50 EUR/day figure.
 
@@ -38,6 +38,9 @@ The costs can be roughly split as follows (based on cost breakdown screenshot):
 * 18% kubernetes control plane
 * 17% network egress (snapshot downloads)
 * 14% network egress (p2p)
+
+![cloud costs](./kusama/cloudcosts.png)
+
 
 ## Funding request from Kusama treasury
 
