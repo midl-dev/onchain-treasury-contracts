@@ -53,4 +53,4 @@ MIDLDEV OÜ will make periodic funding requests to the Kusama treasury:
 
 ## Treasury proposals
 
-The treasury proposals are written directly on Polkassembly by the account associated with the MIDL.DEV Kusama address ([EoH7Yh7S5pqwLz4fTakZcZrvyLB288ifbwhhXoXwwzrPZ5W](https://polkascan.io/kusama/account/EoH7Yh7S5pqwLz4fTakZcZrvyLB288ifbwhhXoXwwzrPZ5W).
+The treasury proposals are written directly on Polkassembly by the account associated with the MIDL.DEV Kusama address ([EoH7Yh7S5pqwLz4fTakZcZrvyLB288ifbwhhXoXwwzrPZ5W](https://polkascan.io/kusama/account/EoH7Yh7S5pqwLz4fTakZcZrvyLB288ifbwhhXoXwwzrPZ5W)).
