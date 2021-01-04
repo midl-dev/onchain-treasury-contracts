@@ -7,7 +7,7 @@ This social contract is an off-chain coordination mechanism to advance the relat
 ## Services
 
 1. A functioning infrastructure to provide usable blockchain database snapshots for the Kusama network, to the benefit of node operators and validators,
-1. New snapshots at least once per day, of variety RocksDb and ParityDb, compressed in 7z format, that can be used by validators to quickly spin up or restore their infrastructure,
+1. New snapshots at least once per day, of variety RocksDb and ParityDb, of type archive and pruned, compressed in 7z format, that can be used by validators to quickly spin up or restore their infrastructure,
 1. A website frontend at [polkashots.io](https://polkashots.io) with relevant metadata and download links,
 1. Best effort incident and problem management,
 1. Redundant implementation setup which allows for continuity, seamless upgrades and basic disaster recovery & contingency management.
@@ -22,6 +22,8 @@ Our current ball-park figure for expenses for the Kusama Network components of p
 
 * about 7.50 EUR/day of cloud costs (or 225 EUR monthly)
 * 100 EUR monthly of labour for operational upkeep described above
+
+The cloud costs are likely to increase due to the progressive increase in size of the Kusama chain archive. They will be periodically reevaluated.
 
 ### Cloud cost explanation
 
